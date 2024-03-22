@@ -1,0 +1,44 @@
+{
+  "name": "velitqui",
+  "description": "Strip comments from code. Removes both line comments and/or block comments, with options to leave protected comments unharmed.",
+  "version": "1.0.0",
+  "author": "SandrineSpinka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerrySauer/velitqui.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "block",
+    "animi",
+    "cumque",
+    "expressions",
+    "rerum",
+    "nam",
+    "saepe",
+    "reiciendis",
+    "regexp",
+    "regular",
+    "remove",
+    "perferendis"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "esprima-extract-comments",
+        "extract-comments",
+        "js-comments",
+        "parse-comments",
+        "parse-code-context"
+      ]
+    }
+  }
+}
